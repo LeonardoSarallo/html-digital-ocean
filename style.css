@@ -82,4 +82,22 @@
   background-image: url('https://www.digitalocean.com/assets/media/homepage/hero-background-c9490927.svg');
   width: 100%;
   height: 750px;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+.jumbo_left h1 {
+  color: #fff;
+  font-size: 70px;
+  margin-top: 150px;
+}
+.jumbo_left p {
+  color: #fff;
+  font-size: 20px;
+  opacity: .8;
+  margin-top: 32px;
+  text-align: left;
+  padding-right: 100px;
+
+
 }
