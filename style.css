@@ -88,16 +88,76 @@
 }
 .jumbo_left h1 {
   color: #fff;
-  font-size: 70px;
+  font-size: 65px;
   margin-top: 150px;
 }
 .jumbo_left p {
   color: #fff;
   font-size: 20px;
-  opacity: .8;
+  opacity: .7;
   margin-top: 32px;
   text-align: left;
-  padding-right: 100px;
+  padding-right: 70px;
+
+}
+.getstarted {
+  width: 100%;
+  height: 450px;
+  background: #fff;
+  border-radius: 5px;
+  margin-top: 120px;
+  margin-left: 30px;
+
+  padding: 32px;
+
+}
+.getstarted h2 {
+  color: #031b4e;
+  font-size: 28px;
+  font-weight: 900
+}
+.getstarted h3 {
+  color: #0069ff;
+  font-size: 30px;
+  font-weight: 800;
+  margin-bottom: 25px;
+}
+.textdate input {
+  width: 100%;
+  height: 48px;
+  padding: 0 16px;
+  background: #fff;
+  border: 1px solid #f1f1f1;
+  margin-bottom: 15px;
+  border-radius: 5px;
+  color: rgba(3,27,78,.7);
+  font-size: 20px;
+  font-weight: 150
+  /* outline-color: #031b4e; */
+}
+.textdate input:focus {
+  border-color: #0069ff;
+  outline: none;
+  transition: 1s
+}
+.acc_btn {
+  background: #0069ff;
+  padding: 15px 125px 15px 130px;
+  border-radius:5px;
+  font-size: 15px;
+
+
+}
+.btn_jumbo  {
+  margin-top: 15px;
+}
+.btn_jumbo a {
+  text-decoration: none;
+  color: #fff;
+}
+.btn_jumbo a:hover {
+  color: #fff;
+  transition: 
 
 
 }
